@@ -1,0 +1,31 @@
+	
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.button{
+	height: 60px;
+	width: 98px;
+	font-size: 30px;
+	color: red;
+	border-radius: 20%;
+	border:1px solid black;
+}
+
+
+#answer{
+	height: 60px;
+	width: 400px;
+	border-radius: 10%;
+	font-size: 30px;
+	background-color: lightgrey;
+}
+
+#delete{height: 60px;
+	width: 400px;
+	border-radius: 10%;
+	font-size: 30px;
+
+
+}
